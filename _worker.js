@@ -4,7 +4,7 @@ import { connect } from "cloudflare:sockets";
 
 // Variables
 const rootDomain = "benisp88.my.id"; // Ganti dengan domain utama kalian
-const serviceName = "benivpn"; // Ganti dengan nama workers kalian
+const serviceName = "vpn"; // Ganti dengan nama workers kalian
 const apiKey = "9dd19b14608d286ff8ffcb2a3cc54e322b07b$"; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
 const apiEmail = "11beni.saputra11@gmail.com"; // Ganti dengan email yang kalian gunakan
 const accountID = "2921b0a82d78f51f3526e04b291c4b0e"; // Ganti dengan Account ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
