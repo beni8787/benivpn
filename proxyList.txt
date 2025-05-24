@@ -3,7 +3,7 @@
 203.194.112.119,2053,ID,First Cagayan Converge Data Center Inc.
 103.6.207.108,8080,ID,PT Pusat Media Indonesia
 36.95.152.58,12137,ID,PT Telkom Indonesia 1
-36.93.8.34,8080,ID,PT Telkom Indonesia 2
+36.93.8.34,11000,ID,PT Telkom Indonesia 2
 47.74.254.191,8900,SG,Alibaba
 129.150.58.86,57621,SG,Oracle Cloud
 54.169.229.188,443,SG,Amazon.com
