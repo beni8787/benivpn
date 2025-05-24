@@ -2691,11 +2691,11 @@
 46.183.186.57,443,HU,Magyar Telekom
 5.182.38.183,443,HU,Pq Hosting Plus
 77.91.72.82,443,HU,Pq Hosting Plus
-36.95.152.58,12137,ID,PT Telkom Indonesia
 203.194.112.119,8443,ID,First Cagayan Converge Data Center Inc.
 172.232.239.151,587,ID,Akamai Connected Cloud
 203.194.112.119,2053,ID,First Cagayan Converge Data Center Inc.
 103.6.207.108,8080,ID,PT Pusat Media Indonesia
+36.95.152.58,12137,ID,PT Telkom Indonesia
 40.113.60.248,2053,IE,Microsoft Azure
 40.113.60.248,8443,IE,Microsoft Azure
 34.253.234.62,443,IE,Amazon.com
